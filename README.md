@@ -1,16 +1,13 @@
-## Hi there 👋
-I'm testing my README file right now!
-<!--
-**Mekiwi/Mekiwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Jack Davis aka Mekiwi👋
 
-Here are some ideas to get you started:
+[Email](mailto:davis.j12@northeastern.edu) • (207) 855-1928 • [LinkedIn](https://www.linkedin.com/in/jack-davis-404b852ab/) • [GitHub](https://github.com/Mekiwi) • Boston, MA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Education
+**Northeastern University**, Khoury College of Computer Sciences — Boston, MA  
+**Bachelor of Science in Computer Science** — Candidate (Expected **May 2029**)
+
+---
+- 📚 I’m currently learning Pyret and Python!
+
