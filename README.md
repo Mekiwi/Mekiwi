@@ -8,6 +8,4 @@
 **Northeastern University**, Khoury College of Computer Sciences — Boston, MA  
 **Bachelor of Science in Computer Science** — Candidate (Expected **May 2029**)
 
----
-- 📚 I’m currently learning Pyret and Python!
 
